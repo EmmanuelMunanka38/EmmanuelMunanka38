@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <td align="right" valign="middle" style="padding-right: 20px; font-weight: bold;">
-        Fintech & Databases
+        APIs & Databases
       </td>
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
