@@ -76,11 +76,10 @@
 <div align="center">
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
 </div>
-
 <!-- AUTOMATED REPOSITORY CONTRIBUTIONS SNAKE ANIMATION -->
 <div align="center">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/EmmanuelMunanka38/EmmanuelMunanka38/output/github-snake-dark.svg" width="100%" alt="Emmanuel's Contribution Snake">
+    <img src="https://raw.githubusercontent.com/EmmanuelMunanka38/EmmanuelMunanka38/output/dist/github-snake-dark.svg" width="100%" alt="Emmanuel's Contribution Snake">
   </p>
 </div>
 
