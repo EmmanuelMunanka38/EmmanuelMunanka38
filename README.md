@@ -58,9 +58,9 @@
   <!-- INTERACTIVE NETWORKS -->
   <a href="https://github.com/EmmanuelMunanka38"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/emmanuel-mnanka-950329341"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:emmanuelmunanka38@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br>
