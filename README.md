@@ -3,22 +3,6 @@
   <img src="https://i.pinimg.com/1200x/f4/ec/09/f4ec092afee1bcdc2516f3807e51cecb.jpg" width="100%" alt="Emmanuel's Banner"/>
 </a>
 
-<!-- LIVE-TRACKING PROFILE STATS BADGES -->
-<div align="center">
-  <a href="https://github.com/EmmanuelMunanka38?tab=repositories">
-    <img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/EmmanuelMunanka38?style=for-the-badge&label=STARS&labelColor=000000&color=000000" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/EmmanuelMunanka38?tab=repositories">
-    <img alt="Repositories" title="Total Public Repositories" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&labelColor=000000&color=000000&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEmmanuelMunanka38" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/EmmanuelMunanka38?tab=followers">
-    <img alt="Followers" title="GitHub Followers" src="https://img.shields.io/github/followers/EmmanuelMunanka38?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000" />
-  </a>
-</div>
-<br>
-
 <!-- SECTION TITLE -->
 <div align="center">
   <h2>Know About Me</h2>
