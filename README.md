@@ -1,16 +1,3 @@
-[<!-- HEADER BANNER -->
-<a href="https://github.com/EmmanuelMunanka38">
-  <img src="https://i.pinimg.com/1200x/89/a1/c9/89a1c91da8da5980579809ae60c4eb47.jpg" 
-       width="400" 
-       height="auto" 
-       alt="Emmanuel's Small Banner"/>
-</a>
-<div align="center">
-  <h2>Know About Me</h2>
-</div>
-
-
-
 <div align="justify">
   <h3>Hey there! I’m Emmanuel Mnanka Samo</h3>
   I am a visionary Backend and Fintech Engineer driven by a passion for architecting highly resilient, scalable server-side environments and high-performance financial infrastructure. My engineering journey is defined by a deep commitment to data integrity and system reliability, underscored by the landmark achievement of designing, developing, and deploying my own proprietary payment gateway from scratch. 
