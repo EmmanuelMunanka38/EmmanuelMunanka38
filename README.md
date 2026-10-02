@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <a href="https://github.com/EmmanuelMunanka38">
-  <img src="https://i.pinimg.com/webp/1200x/f4/a8/a3/f4a8a3a8e880e254a8232bd326940f12.webp" width="100%" alt="Emmanuel's Banner"/>
+  <img src="[https://i.pinimg.com/webp/1200x/f4/a8/a3/f4a8a3a8e880e254a8232bd326940f12.webp](https://i.pinimg.com/originals/38/06/93/3806936e1c0b535ff338121d6e5765df.gif)" width="100%" alt="Emmanuel's Banner"/>
 </a>
 
 <!-- SECTION TITLE -->
@@ -8,8 +8,7 @@
   <h2>Know About Me</h2>
 </div>
 
-<!-- LEFTSIDE AVATAR/GRAPHIC -->
-<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
+
 
 <div align="justify">
   <h3>Hey there! I’m Emmanuel Mnanka Samo</h3>
@@ -20,8 +19,7 @@
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
-  <!-- RIGHTSIDE IMAGE -->
-  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
+
   
   <h3>Featured FinTech Implementations</h3>
   <a href="https://github.com/EmmanuelMunanka38/payment-gateway"><img src="https://img.shields.io/badge/Custom_Gateway-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Proprietary transaction processing infrastructure engineered completely from scratch.<br>
