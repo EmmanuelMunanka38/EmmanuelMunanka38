@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <a href="https://github.com/EmmanuelMunanka38">
-  <img src="[https://i.pinimg.com/webp/1200x/f4/a8/a3/f4a8a3a8e880e254a8232bd326940f12.webp](https://i.pinimg.com/originals/38/06/93/3806936e1c0b535ff338121d6e5765df.gif)" width="100%" alt="Emmanuel's Banner"/>
+  <img src="https://i.pinimg.com/originals/f4/a8/a3/f4a8a3a8e880e254a8232bd326940f12.gif" width="100%" alt="Emmanuel's Banner"/>
 </a>
 
 <!-- SECTION TITLE -->
