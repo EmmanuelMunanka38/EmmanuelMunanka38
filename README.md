@@ -1,9 +1,10 @@
-<!-- HEADER BANNER -->
+[<!-- HEADER BANNER -->
 <a href="https://github.com/EmmanuelMunanka38">
-  <img src="https://i.pinimg.com/1200x/89/a1/c9/89a1c91da8da5980579809ae60c4eb47.jpg" width="100%" alt="Emmanuel's Banner"/>
+  <img src="https://i.pinimg.com/1200x/89/a1/c9/89a1c91da8da5980579809ae60c4eb47.jpg" 
+       width="400" 
+       height="auto" 
+       alt="Emmanuel's Small Banner"/>
 </a>
-
-<!-- SECTION TITLE -->
 <div align="center">
   <h2>Know About Me</h2>
 </div>
